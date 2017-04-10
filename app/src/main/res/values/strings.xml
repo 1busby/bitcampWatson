@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Flight Control</string>
     <string name="action_settings">Settings</string>
-    <string name="speech_text_username">188cb5d2-080d-4e78-b4df-4b60718239f9</string>
-    <string name="speech_text_password">YlqnY8wOrZTF</string>
-    <string name="text_speech_username">f93ea57c-0035-4a9e-8f44-18c156ad7aa6</string>
-    <string name="text_speech_password">M40GxaSflDQl</string>
+    <string name="speech_text_username">speech-to-text username</string>
+    <string name="speech_text_password">speech-to-text password</string>
+    <string name="text_speech_username">text-to-speech username</string>
+    <string name="text_speech_password">text-to-speech password</string>
 </resources>
